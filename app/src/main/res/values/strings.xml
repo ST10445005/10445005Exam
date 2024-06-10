@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">10445005</string>
+    <string name="exit">Exit</string>
+    <string name="welcome_to_weather_star">WELCOME TO WEATHER STAR</string>
+    <string name="presented_by_tshepo_tsotesti">Presented by: Tshepo Tsotesti</string>
+    <string name="enter">Enter</string>
+    <string name="_10445005">10445005</string>
+    <string name="todo">TODO</string>
+    <string name="clear">Clear</string>
+    <string name="next">Next</string>
+    <string name="TODO2">TODO</string>
+    <string name="Return">Return</string>
+    <string name="todo3">TODO</string>
+    <string name="textview">TextView</string>
+</resources>
